@@ -1,0 +1,40 @@
+https://www.elearnmarkets.com/blog/best-25-technical-indicators/
+Momentum Indicators
+MACD
+RSI
+ADX
+Rate of Change
+Stochastic
+Relative Strength
+
+Trend Indicators
+Moving Average
+EMA
+Supertrend
+Parabolic SAR
+Aroon Oscillator
+
+Volume Indicators
+OBV On-balance indicator
+Trader's Lion enhanced volume
+volume price trend indicator
+money flow index
+chaikin money flow indicator
+accumulation/distribution
+ease of movement
+volume at price
+VWAP (volume-weighted average price)
+
+Volatility Indicators
+Bollinger Bands
+Keltner Channel
+Donchian Channel
+ATR (Average True Range)
+
+Breadth Indicators
+Percent/Number of Stocks above Moving Average
+Periodic High and Lows
+Advance/Decline
+
+Nicht zuordenbare Indikatoren
+Fibonacci Retracements
